@@ -1,0 +1,15 @@
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\ITProjects\.Net\RobolineTestAssignment\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

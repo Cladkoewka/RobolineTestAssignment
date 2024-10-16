@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5R/ezv50EqP/sOvfv9JpkzKeeiM/7wKH3D9KX/mn7m8QNrzLT7/duyYjXGjB4KEr/Gz5p+D7VV2tONHflK1mA==",
+  "success": true,
+  "projectFilePath": "C:\\ITProjects\\.Net\\RobolineTestAssignment\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
